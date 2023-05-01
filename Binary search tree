@@ -1,0 +1,11 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+7 root x'dir.
+5 x'in solundadır.
+1 x'in solundadır.
+0 1'in solundadır.
+3 1'in sağındadır.
+2 3'ün solundadır.
+4 3'ün sağındadır.
+8 x'in sağındadır.
+6 8'in solundadır.
+9 8'in sağındadır.
